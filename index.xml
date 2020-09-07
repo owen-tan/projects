@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects Portfolio on Owen Tan</title>
+    <link>https://owen-tan.github.io/projects/</link>
+    <description>Recent content in Projects Portfolio on Owen Tan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://owen-tan.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project I: Idiosyncratic Volatility Investment Algorithm</title>
+      <link>https://owen-tan.github.io/projects/post/chapter-1/</link>
+      <pubDate>Fri, 28 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://owen-tan.github.io/projects/post/chapter-1/</guid>
+      <description>Background:
+This is my first project related to financial market. The main concept uses for this project is Time Series Regression and General Autoregressive Conditional to Heteroskedasticity (GARCH).
+The purpose of this project is to create an algorithm for equity investing using idiosyncratic volatility. Fu (2009) observed significant and positive relationship between equity return and expected idiosyncratic volatility for US Stock Market. Hence, the finding serves as the foundation of this strategy.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Fama French Three Factor Portfolio Construction</title>
+      <link>https://owen-tan.github.io/projects/post/chapter-2/</link>
+      <pubDate>Mon, 03 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://owen-tan.github.io/projects/post/chapter-2/</guid>
+      <description>Background:
+Few months ago when I started my undergrad thesis, I need to get SMB and HML factors for Fama-French Three Factors Model (my thesis is about asset pricing model). Since I use sample of stock outside US (niche sample), I need to calculate both factors on my own instead of getting it from Kenneth French&amp;rsquo;s website. I wasn&amp;rsquo;t able to code back then, and almost crazy enough to use excel.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://owen-tan.github.io/projects/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://owen-tan.github.io/projects/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://linkedin.com/in/owen-tan-st   Github: https://github.com/owen-tan   Instagram: https://instagram.com/_owentan    </description>
+    </item>
+    
+  </channel>
+</rss>
